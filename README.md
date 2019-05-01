@@ -9,5 +9,8 @@
 
 | nodemcu esp8266 | Breadboard | Wires |
 |---------------|---------------|---------------|
-|![Image](https://cdn.shopify.com/s/files/1/0672/9409/products/NodeMCU_ESP8266_development_board_1024x1024.jpg?v=1464135546)|![Image](https://cdn.sparkfun.com//assets/parts/9/2/8/7/12615-01.jpg)|![Image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiCxLvY0_rhAhVl4HMBHXHjBTYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.in%2FRobo-India-JW-C3-Jumper-Wire%2Fdp%2FB00YJ67SYW&psig=AOvVaw2pzUjsQ28M8kbeC2b4sPmf&ust=1556811123697471)|
+|![Image](https://cdn.shopify.com/s/files/1/0672/9409/products/NodeMCU_ESP8266_development_board_1024x1024.jpg?v=1464135546)|![Image](https://cdn.sparkfun.com//assets/parts/9/2/8/7/12615-01.jpg)|![Image](https://images-na.ssl-images-amazon.com/images/I/816-FhWxCnL._SL1500_.jpg)|
 
+| Potentiometer | Buzzer | nodemcu esp8266 |
+|---------------|---------------|---------------|
+|![Image](https://cdn.sparkfun.com//assets/parts/1/2/8/0/1/14624-Rotary_Potentiometer_-_100k_Ohm__Logarithmic__Panel_Mount_-01a.jpg)|![Image](https://market.samm.com/buzzer-en-general-in-416-26-O.png)|![Image](https://cdn.shopify.com/s/files/1/0672/9409/products/NodeMCU_ESP8266_development_board_1024x1024.jpg?v=1464135546)|
