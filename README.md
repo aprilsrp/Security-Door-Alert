@@ -20,7 +20,7 @@
 ![Image]()
 [YouTube](http://localhost/)
 # Team Members
-|![Image]!(https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/13512247_1043501582396306_7105946236861078178_n.jpg?_nc_cat=109&_nc_ht=scontent.fbkk2-7.fna&oh=90df34205ad5a32af3409c9af05c295e&oe=5D2BF096)|[Image]!(https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/15284906_1341806792530788_6110532064007601234_n.jpg?_nc_cat=111&_nc_ht=scontent.fbkk2-6.fna&oh=4ef926e2ab512cd2e58134b81a36e1d3&oe=5D35CB41)|![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/56517128_2624426800919420_8126447242111352832_n.jpg?_nc_cat=102&_nc_ht=scontent.fbkk2-8.fna&oh=4585193e4108fcbdfff74d2803d3b5c8&oe=5D75BC73)|![Image](https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/52911752_2487048814703345_5954947880748843008_n.jpg?_nc_cat=104&_nc_ht=scontent.fbkk2-6.fna&oh=b9f499aa3069bace3391c272a2751e33&oe=5D6C301B)|
+|![Image](https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/13512247_1043501582396306_7105946236861078178_n.jpg?_nc_cat=109&_nc_ht=scontent.fbkk2-7.fna&oh=90df34205ad5a32af3409c9af05c295e&oe=5D2BF096)|![Image](https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/15284906_1341806792530788_6110532064007601234_n.jpg?_nc_cat=111&_nc_ht=scontent.fbkk2-6.fna&oh=4ef926e2ab512cd2e58134b81a36e1d3&oe=5D35CB41)|![Image](https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.0-9/56517128_2624426800919420_8126447242111352832_n.jpg?_nc_cat=102&_nc_ht=scontent.fbkk2-8.fna&oh=4585193e4108fcbdfff74d2803d3b5c8&oe=5D75BC73)|![Image](https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/52911752_2487048814703345_5954947880748843008_n.jpg?_nc_cat=104&_nc_ht=scontent.fbkk2-6.fna&oh=b9f499aa3069bace3391c272a2751e33&oe=5D6C301B)|
 |---------------|---------------|---------------|---------------|
 | พิมวรีย์ กรมสุริยศักดิ์ | ภูมิพัฒน์ เพชรทอง | สิริพร จงจิตร | อิทธิเดช อร่ามศรี |
 | 61070145 | 61070169 | 61070243 | 61070271 |
@@ -28,6 +28,7 @@
 | ผศ.ดร.กิติ์สุชาต พสุภา	| ผศ.ดร.ปานวิทย์ ธุวะนุติ |
 |---------------|---------------|
 |![Image](https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/14611010_10153805956002331_6002362915012083123_n.jpg?_nc_cat=111&_nc_ht=scontent.fbkk2-6.fna&oh=ebb51daaa77a71b9b7cf2613955f2579&oe=5D2AFF8F)|![Image](https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_ht=scontent.fbkk2-7.fna&oh=3740aea7b4019632147c6d66d16cffcc&oe=5D66B613)|
+
 Computer Programming (รหัส 06016315) 
 Faculty of Information Technology
 King Mongkut's Institute of Technology Ladkrabang
